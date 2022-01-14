@@ -1,0 +1,14 @@
+/* .homescreen {
+  max-width: auto;
+  margin: 1rem 10% auto;
+} */
+.homescreen__title {
+  font-size: 1.5rem;
+  color: black;
+  margin-bottom: 1rem;
+  margin-left: 8px;
+}
+/* .homescreen__product {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+} */
